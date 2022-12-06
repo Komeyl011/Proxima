@@ -432,7 +432,7 @@ footer form .inputs_wrapper .input {
 }
 
 footer form .inputs_wrapper input {
-    width: 13rem;
+    width: 27rem;
     height: 33px;
     border: 1px solid rgb(197, 197, 197);
 }
@@ -689,7 +689,7 @@ footer form button:hover, footer form .checkbox input:hover {
     }
 
     footer form .data input {
-        width: 320px;
+        width: 13rem;
     }
 
     footer form .checkbox {
